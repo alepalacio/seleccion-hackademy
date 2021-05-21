@@ -42,6 +42,6 @@ _Debes tener instalado:_
     "image_url: "https://es.wikipedia.org/wiki/Galgo_ingl%C3%A9s"
 }
 ```
-* **GET:** /pets --- _Devuelve la lista de mascotas guardadas._
+* **GET:** /pets --- _Devuelve las mascotas guardadas._
 * **DELETE:** /pets/:id _Donde :id va a ser la ID de la mascota guardada que queremos eliminar._
 ---
